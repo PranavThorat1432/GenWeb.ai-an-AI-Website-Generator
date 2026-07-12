@@ -15,7 +15,7 @@ const app = express();
 
 app.post('/api/stripe/webhook', express.raw({type: 'application/json'}), stripeWebhook);
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5000; 
 
 // Global Rate Limiting (100 requests per 15 mins)
 const globalLimiter = rateLimit({
