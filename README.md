@@ -82,15 +82,15 @@ graph TD
 
 ## 🎬 Project Preview
 
-![1](https://github.com/user-attachments/assets/6b0805a7-5b90-4867-a243-9b60b0ceb6f6)
+![1](https://github.com/user-attachments/assets/46d00ada-2313-4b8d-af04-ab4e552b8106)
 
-![2](https://github.com/user-attachments/assets/db2fed17-9f60-4f1c-b4d1-09f557d7c940)
+![2](https://github.com/user-attachments/assets/c302f293-47d6-4474-a9a6-d699ee0f64be)
 
-![3](https://github.com/user-attachments/assets/191c0713-7e41-494d-b225-676f0966260c)
+![3](https://github.com/user-attachments/assets/ffbdf3b6-3a66-4ab8-a7c1-6c7ccfefdd68)
 
-![4](https://github.com/user-attachments/assets/3d79bb5b-6865-4589-a2b9-28b695a47290)
+![4](https://github.com/user-attachments/assets/56fd1c60-0ca0-4e8b-bc8a-1f315e1982d1)
 
-![5](https://github.com/user-attachments/assets/012f6346-19d0-49e5-99e7-8df1675f90d9)
+![5](https://github.com/user-attachments/assets/9e9bc824-fc1e-48b2-a35c-c33aab591ed6)
 
 ---
 
@@ -345,7 +345,7 @@ Distributed under the **ISC License**. See [`LICENSE.md`](./LICENSE.md) for more
 | Platform              | Link                                                          |
 | --------------------- | ------------------------------------------------------------- |
 | 🧑 **Author**      | Pranav Thorat                      |
-| 🌐 **Live Demo**      | [View Now](https://youtube-pyta.onrender.com)                        |
+| 🌐 **Live Demo**      | [View Now](https://genweb-ai-6w1p.onrender.com)                        |
 | 🧑‍💻 **GitHub Repo** | [View Code](https://github.com/PranavThorat1432/GenWeb.ai-an-AI-Website-Generator) |
 | 💼 **LinkedIn**       | [Connect with Me](https://www.linkedin.com/in/curiouspranavthorat)       |
 | 📩 **Email**          | [pranavthorat95@gmail.com](mailto:pranavthorat95@gmail.com)   |
